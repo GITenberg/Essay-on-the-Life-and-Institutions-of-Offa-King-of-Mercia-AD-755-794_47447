@@ -1,4 +1,8 @@
 _repo: Essay-on-the-Life-and-Institutions-of-Offa-King-of-Mercia-AD-755-794_47447
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47447-h/images/cover.jpg
 creator:
   author:
     agent_name: Mackenzie, Henry
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44338
     wikipedia: http://en.wikipedia.org/wiki/Henry_Mackenzie_%28bishop%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47447#Essay-on-the-Life-and-Institutions-of-Offa-King-of-Mercia-AD-755-794
 gutenberg_issued: '2014-11-24'
 gutenberg_type: Text
 identifiers:
